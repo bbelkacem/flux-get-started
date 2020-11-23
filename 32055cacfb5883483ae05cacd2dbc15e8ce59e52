@@ -1,0 +1,1 @@
+{"jobID":"c43ca132-29fe-58e1-a923-ccbcfdb7e4ee","spec":{"type":"policy","cause":{"Message":"","User":"S01024002 \u003cext.bboukhalfa@cma-cgm.com\u003e"},"spec":{"demo:helmrelease/ghost":{"add":{"automated":"true"},"remove":{}}}},"result":null}
