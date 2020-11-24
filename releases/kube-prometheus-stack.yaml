@@ -11,5 +11,5 @@ spec:
   releaseName: kube-prometheus-stack
   chart:
     repository: https://prometheus-community.github.io/helm-charts
-    name: prometheus-community/kube-prometheus-stack
+    name: prometheus-community
     version: 12.2.2
